@@ -1,5 +1,8 @@
 # MYSQL-CRUD
-*A basic/simple module for make CRUD operations using the mysql module.*
+*CRUD operations using the mysql module.*
+
+## Dependences
+[node-mysql](https://github.com/mysqljs/mysql)
 
 ## Installation:
 Install mysql module:
@@ -11,3 +14,5 @@ Done.
 Pretty Easy.
 
 ## Usage:
+Because was made with the concept of using with express, this module basically is divided between both kind of methods, methods with&without response of server.
+

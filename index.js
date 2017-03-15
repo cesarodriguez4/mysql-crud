@@ -1,2 +1,2 @@
-var app = require("./dist/mysql_crud");
+var app = require("./source/mysql_crud");
 module.exports = app;
